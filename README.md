@@ -28,133 +28,20 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/bf6ce2a46938ef1925335adf7487f8d994fb4a1289da17a3db771ff29aafaa3c/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78312e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Twisting turning and tilting" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bf6ce2a46938ef1925335adf7487f8d994fb4a1289da17a3db771ff29aafaa3c/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78312e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="600" height="406"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Twisting turning and tilting" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Twisting turning and tilting">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Twisting turning and tilting in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/bf6ce2a46938ef1925335adf7487f8d994fb4a1289da17a3db771ff29aafaa3c/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78312e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></td>
+
 <td><animated-image data-catalyst="" style="width: 550px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a59e98dc093836a2719e765561e1d69e5151270ea51089637e6315190f045367/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/a59e98dc093836a2719e765561e1d69e5151270ea51089637e6315190f045367/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" data-canonical-src="https://mithi.github.io/robotics-blog/v2-hexapod-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/a59e98dc093836a2719e765561e1d69e5151270ea51089637e6315190f045367/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/a59e98dc093836a2719e765561e1d69e5151270ea51089637e6315190f045367/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="550" height="399"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/a59e98dc093836a2719e765561e1d69e5151270ea51089637e6315190f045367/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d312e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></td>
+ 
 <td><animated-image data-catalyst="" style="width: 500px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1842022ef273268a92af91fd6e08dd015dd334c7ac0959d27f823bf8cc38161b/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/1842022ef273268a92af91fd6e08dd015dd334c7ac0959d27f823bf8cc38161b/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" data-canonical-src="https://mithi.github.io/robotics-blog/v2-hexapod-2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/1842022ef273268a92af91fd6e08dd015dd334c7ac0959d27f823bf8cc38161b/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/1842022ef273268a92af91fd6e08dd015dd334c7ac0959d27f823bf8cc38161b/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="500" height="408"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/1842022ef273268a92af91fd6e08dd015dd334c7ac0959d27f823bf8cc38161b/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d68657861706f642d322e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></td>
+  
 <td><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfe987bdfe7aef0dc939e236784fa3e58c340f7b37bb17c9a9224123cb078426/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78332e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/dfe987bdfe7aef0dc939e236784fa3e58c340f7b37bb17c9a9224123cb078426/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78332e676966" alt="调整相机视图" data-canonical-src="https://mithi.github.io/robotics-blog/robot-only-x3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/dfe987bdfe7aef0dc939e236784fa3e58c340f7b37bb17c9a9224123cb078426/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78332e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Adjusting camera view" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/dfe987bdfe7aef0dc939e236784fa3e58c340f7b37bb17c9a9224123cb078426/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78332e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="0" height="0"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Adjusting camera view" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Adjusting camera view">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Adjusting camera view in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/dfe987bdfe7aef0dc939e236784fa3e58c340f7b37bb17c9a9224123cb078426/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f726f626f742d6f6e6c792d78332e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></td>
+
 </tr>
 </tbody>
 </table>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公告</font></font></h1><a id="user-content-announcement" class="anchor" aria-label="永久链接：公告" href="#announcement"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可能有兴趣查看我</font></font><a href="http://github.com/mithi/hexapod"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用 Javascript 重写的内容</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，网址为：</font></font><a href="https://hexapod.netlify.app/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://hexapod.netlify.app/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，速度快了 10000000 倍。如果您想使用 Node 构建自己的用户界面，您可以在 npm 注册表中将算法作为包单独下载：</font></font><a href="https://github.com/mithi/hexapod-kinematics-library"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hexapod Kinematics Library</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。还有</font></font><a href="https://github.com/mithi/hexapod-irl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个经过修改的“叉子”，您可以使用该应用程序来控制物理六足机器人，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如下面的 gif 所示。</font></font></p>
 <p align="center" dir="auto">
-    <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1670421/103467765-451a2180-4d8d-11eb-8f94-1a23201595b9.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1670421/103467765-451a2180-4d8d-11eb-8f94-1a23201595b9.gif" alt="绘画" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/1670421/103467765-451a2180-4d8d-11eb-8f94-1a23201595b9.gif" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="drawing" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/1670421/103467765-451a2180-4d8d-11eb-8f94-1a23201595b9.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="300" height="169"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play drawing" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play drawing">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open drawing in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/1670421/103467765-451a2180-4d8d-11eb-8f94-1a23201595b9.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
+
 </p>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h1><a id="user-content-features" class="anchor" aria-label="永久链接：特点" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
@@ -223,109 +110,23 @@
 <thead>
 <tr>
 <th><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d47f0e907a299137d9dc179807ec640b279805481e975c2a5fa3377c94dc182/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d696b2d75692e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/1d47f0e907a299137d9dc179807ec640b279805481e975c2a5fa3377c94dc182/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d696b2d75692e676966" alt="图像" data-canonical-src="https://mithi.github.io/robotics-blog/v2-ik-ui.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/1d47f0e907a299137d9dc179807ec640b279805481e975c2a5fa3377c94dc182/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d696b2d75692e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="image" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/1d47f0e907a299137d9dc179807ec640b279805481e975c2a5fa3377c94dc182/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d696b2d75692e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="760" height="374"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play image" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play image">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open image in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/1d47f0e907a299137d9dc179807ec640b279805481e975c2a5fa3377c94dc182/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d696b2d75692e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></th>
+
 <th><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ba8a4abab2efae89bb8cfacf75f49c280b575ba9f4d866051514bf0a96975937/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d6b696e656d61746963732d75692e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/ba8a4abab2efae89bb8cfacf75f49c280b575ba9f4d866051514bf0a96975937/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d6b696e656d61746963732d75692e676966" alt="图像" data-canonical-src="https://mithi.github.io/robotics-blog/v2-kinematics-ui.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/ba8a4abab2efae89bb8cfacf75f49c280b575ba9f4d866051514bf0a96975937/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d6b696e656d61746963732d75692e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="image" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/ba8a4abab2efae89bb8cfacf75f49c280b575ba9f4d866051514bf0a96975937/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d6b696e656d61746963732d75692e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="380" height="162"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play image" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play image">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open image in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/ba8a4abab2efae89bb8cfacf75f49c280b575ba9f4d866051514bf0a96975937/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f76322d6b696e656d61746963732d75692e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></th>
+ </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07b53303ec0005ad678d6b723b299e9459e06cdcf6760271f694c4fc33ce2955/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d312e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/07b53303ec0005ad678d6b723b299e9459e06cdcf6760271f694c4fc33ce2955/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d312e676966" alt="图像" data-canonical-src="https://mithi.github.io/robotics-blog/UI-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/07b53303ec0005ad678d6b723b299e9459e06cdcf6760271f694c4fc33ce2955/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d312e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="image" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/07b53303ec0005ad678d6b723b299e9459e06cdcf6760271f694c4fc33ce2955/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d312e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="380" height="194"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play image" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play image">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open image in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/07b53303ec0005ad678d6b723b299e9459e06cdcf6760271f694c4fc33ce2955/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d312e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></td>
+</td>
 <td><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f96c3d9914bb6cd5411515c4b37a948684956da7634a972712bb0dd152195f3f/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d322e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/f96c3d9914bb6cd5411515c4b37a948684956da7634a972712bb0dd152195f3f/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d322e676966" alt="图像" data-canonical-src="https://mithi.github.io/robotics-blog/UI-2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/f96c3d9914bb6cd5411515c4b37a948684956da7634a972712bb0dd152195f3f/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d322e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="image" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/f96c3d9914bb6cd5411515c4b37a948684956da7634a972712bb0dd152195f3f/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d322e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="380" height="152"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play image" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play image">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open image in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/f96c3d9914bb6cd5411515c4b37a948684956da7634a972712bb0dd152195f3f/68747470733a2f2f6d697468692e6769746875622e696f2f726f626f746963732d626c6f672f55492d322e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -340,15 +141,7 @@
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font></h2><a id="user-content-run" class="anchor" aria-label="永久链接： 运行" href="#run"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ python index.py
 Running on http://127.0.0.1:8050/</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ python index.py
-Running on http://127.0.0.1:8050/" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+
   </div></div>
 <ul dir="auto">
 <li><font style="vertical-align: inherit;"><a href="/mithi/hexapod-robot-simulator/blob/master/settings.py"><font style="vertical-align: inherit;">使用./settings.py</font></a><font style="vertical-align: inherit;">修改默认设置</font></font><a href="/mithi/hexapod-robot-simulator/blob/master/settings.py"><font style="vertical-align: inherit;"></font></a></li>
